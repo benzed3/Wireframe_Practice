@@ -27,6 +27,8 @@ nav {
 article {
     color: #ebebeb;
     background: #777;
+    height: 162px;
+    margin: 0 25px 0 25px;
 }
 
 h1, p {
@@ -35,16 +37,26 @@ h1, p {
     margin: 0;
 }
 
+article header {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
 section {
     width: 495px;
     float: left;
-    height: 250px;
+    height: 225px;
+    padding-top: 25px;
 }
 
 aside {
     float: right;
     width: 445px;
-    height: 250px;
+    height: 225px;
+    padding-top: 25px;
     margin-bottom: 20px;
 }
 
