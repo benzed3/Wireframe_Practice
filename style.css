@@ -38,6 +38,7 @@ h1, p {
 section {
     width: 495px;
     float: left;
+    height: 250px;
 }
 
 aside {
