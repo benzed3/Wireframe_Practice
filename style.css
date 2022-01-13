@@ -28,7 +28,7 @@ article {
     color: #ebebeb;
     background: #777;
     height: 162px;
-    margin: 0 25px 0 25px;
+    margin: 0 15px 0 15px;
 }
 
 h1, p {
@@ -41,6 +41,12 @@ article header {
     margin: 0;
 }
 
+#p {
+    margin: 0;
+    width: 435px;
+    margin-left: 20px;
+}
+
 h2 {
     margin: 0;
 }
@@ -48,8 +54,17 @@ h2 {
 section {
     width: 495px;
     float: left;
-    height: 225px;
-    padding-top: 25px;
+    height: 250px;
+}
+
+section  h1 {
+    padding: 25px 0 25px 0;
+}
+
+section article header {
+    margin: 0 20px 0 20px;
+    width: 435px;
+    padding: 0;
 }
 
 aside {
