@@ -41,6 +41,10 @@ article header {
     margin: 0;
 }
 
+article h2 {
+    padding: 15px 0 15px 0;
+}
+
 #p {
     margin: 0;
     width: 435px;
