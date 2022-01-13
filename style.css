@@ -27,7 +27,7 @@ nav {
 article {
     color: #ebebeb;
     background: #777;
-    height: 155px;
+    height: 165px;
     margin: 0 15px 0 15px;
 }
 
@@ -45,10 +45,15 @@ article h2 {
     padding: 15px 0 15px 0;
 }
 
+#h {
+    padding: 10px 0 10px 0;
+}
+
 #p {
     margin: 10px 0 0 0;
     width: 435px;
     margin-left: 20px;
+    padding: 10px 0 10px 0;
 }
 
 h2 {
@@ -62,7 +67,7 @@ section {
 }
 
 section  h1 {
-    padding: 25px 0 25px 0;
+    padding: 20px 0 20px 0;
 }
 
 section article header {
